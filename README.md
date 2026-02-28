@@ -12,7 +12,7 @@
 - **Update**: Update item information based on its ID.
 - **Delete**: Remote an item based on its Id.
 
-## Setup and Pre-requisits
+## Setup and Prerequisites
 - You need a MySQL Server running. Use the script below to create the tables.
 ```sql
 CREATE TABLE category (
